@@ -1,5 +1,4 @@
-Programul implementeaza operatorii de selectie, incrucisare si mutatie specifici unor algoritmi genetici pentru a afla punctele de minim ale unor functii(Rastrigin,Schweffel,DeJong,Michalewicz) pe un anumit interval.Pentru selectia indivizilor din generatiile viitoare, am folosit tehnici precum Wheel of Fortune si elitism, iar functia de fitness folosita este f(x)=1/(fct(individ)+30). &lt;sup&gt;1&lt;/sup&gt;/&lt;sub&gt;2&lt;/sub&gt;
-
+Programul implementeaza operatorii de selectie, incrucisare si mutatie specifici unor algoritmi genetici pentru a afla punctele de minim ale unor functii(Rastrigin,Schweffel,DeJong,Michalewicz) pe un anumit interval.Pentru selectia indivizilor din generatiile viitoare, am folosit tehnici precum Wheel of Fortune si elitism, iar functia de fitness folosita este f(x)=1/(fct(individ)+30). 
  <br />
 Functia pentru care dorim sa determinam minimul este data ca parametru in mainFunction() din interiorul functiei main().  <br />
 Parametrizarea algoritmului se face prin intermediul macrourilor:  <br />
